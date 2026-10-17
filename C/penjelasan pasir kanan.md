@@ -73,7 +73,7 @@ return 0;
 ```
 standar internasional yang memberi tahu sistem operasi bahwa program telah berjalan dengan sukses dan selesai tanpa ada error. Jika program mengalami masalah di tengah jalan, ia biasanya akan mengembalikan angka selain 0.
 
-#codingan lengkapnya
+# codingan lengkapnya
 ```bash
 #include <stdio.h>
  int main() {
