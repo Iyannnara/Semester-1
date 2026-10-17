@@ -12,6 +12,16 @@
         } else{
             geser = (2 * n - 2) - baris;
         }
+
+        for (int kolom = 0; kolom < geser* 2; kolom++) {
+            printf(" ");
+        }
+
+        for (int kolom = 0; kolom < n - geser; kolom++ ) {
+            printf("* ");
+        }
+
+        printf("/n");
     }
     return 0;
  }
