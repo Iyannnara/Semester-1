@@ -1,4 +1,4 @@
-# Comprehensive Study Guide: English Mid-Term Exam (UTS) & IELTS Alignment
+# Comprehensive Study Guide: English Mid-Term Exam (UTS)
 
 ---
 
