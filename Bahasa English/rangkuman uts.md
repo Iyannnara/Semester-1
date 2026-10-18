@@ -283,7 +283,7 @@ PAST PERFECT            PAST CONTINUOUS                 SIMPLE PAST
 
 ---
 
-## Module 8: IELTS-Style Practice Test
+## Module 8: Practice Test
 
 ### Section A: Grammar & Vocabulary (Multiple Choice)
 
@@ -309,7 +309,7 @@ PAST PERFECT            PAST CONTINUOUS                 SIMPLE PAST
 
 ---
 
-### Section B: Short Essay Writing (IELTS Task 2 Style Prompt)
+### Section B: Short Essay Writing 
 
 **Prompt:**  
 *Some people believe that living in a bustling modern city provides better life opportunities, while others argue that living in a quiet rural area is healthier and more peaceful.*
