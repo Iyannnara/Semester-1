@@ -1,4 +1,4 @@
-### materi Metmod :
+### materi uts Metmod :
 1. Pengantar Software Engineering
 2. Software Crisis
 3. Software Development Life Cycle (SDLC)
