@@ -73,6 +73,12 @@ return 0;
 ```
 standar internasional yang memberi tahu sistem operasi bahwa program telah berjalan dengan sukses dan selesai tanpa ada error. Jika program mengalami masalah di tengah jalan, ia biasanya akan mengembalikan angka selain 0.
 
+# note:
+- () Kurung Biasa: Digunakan untuk memanggil/membuat fungsi (contoh: printf(), main()), membungkus kondisi kontrol (contoh: if (x > 5)), dan mengatur prioritas matematika.
+- {} Kurung Kurawal: Digunakan untuk membungkus blok kode atau tubuh (body) dari fungsi, percabangan if, atau perulangan for/while.
+- [] Kurung Siku: Digunakan untuk membuat dan mengakses Array (daftar data) serta menentukan ukuran kapasitasnya.
+- ; semicolon atau titik koma :pemberhentian atau akhir dari sebuah instruksi (statement) selesai. Tanda ; tidak ditaruh setelah judul fungsi atau struktur kontrol seperti if, for, while sebelum blok {}
+  
 # codingan lengkapnya
 ```bash
 #include <stdio.h>
