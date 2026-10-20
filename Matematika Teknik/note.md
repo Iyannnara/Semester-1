@@ -9,3 +9,5 @@ link :
 link video latsol :
 - https://www.youtube.com/watch?v=m0Ov9AZotN4
 - https://www.youtube.com/watch?v=-2pSwVmHySY&list=PLmMOM47Txz7tAXV3JjrKRWdxoCx5tXUHt
+
+https://share.gemini.google/i6pNNgZhNEl7
