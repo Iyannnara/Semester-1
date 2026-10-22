@@ -4,15 +4,15 @@
 * **Definisi:** Perangkat lunak adalah sekumpulan data elektronik, instruksi, atau program komputer yang tersimpan dan dikendalikan oleh komputer untuk menjalankan perintah khusus.
 * **Komponen:** Perangkat lunak bukan sekadar kode program, melainkan mencakup program komputer, dokumentasi (analisis kebutuhan, model desain, user manual), serta file konfigurasi.
 * **Perbedaan Program vs Perangkat Lunak:**
-  * **Program:** Kumpulan instruksi individual atau baris kode untuk satu fungsi spesifik[cite: 1].
-  * **Perangkat Lunak:** Istilah yang lebih luas mencakup sekumpulan program, dokumentasi, dan prosedur yang bekerja bersama[cite: 1].
+  * **Program:** Kumpulan instruksi individual atau baris kode untuk satu fungsi spesifik.
+  * **Perangkat Lunak:** Istilah yang lebih luas mencakup sekumpulan program, dokumentasi, dan prosedur yang bekerja bersama.
 * **Jenis Produk Perangkat Lunak:**
   * **Produk Generik (Shrink-wrapped):** Dibuat untuk dijual secara massal ke pasar terbuka tanpa pesanan khusus; spesifikasinya dikontrol oleh organisasi pengembang (contoh: pengolah kata).
-  * **Produk Pesanan:** Dibuat khusus sesuai permintaan pelanggan; spesifikasinya dikontrol oleh organisasi yang membeli[cite: 1].
+  * **Produk Pesanan:** Dibuat khusus sesuai permintaan pelanggan; spesifikasinya dikontrol oleh organisasi yang membeli.
 
 ## 2. Definisi Rekayasa Perangkat Lunak (RPL / Software Engineering)
 * Disiplin ilmu yang mencakup seluruh aspek produksi perangkat lunak, mulai dari tahap spesifikasi kebutuhan, perancangan, pengembangan, pengujian, implementasi, hingga pemeliharaan pasca-penggunaan.
-* Bertujuan untuk membangun perangkat lunak secara efisien, benar, tepat waktu, bernilai ekonomis, dapat diandalkan, serta mampu memuaskan kebutuhan pengguna[cite: 1].
+* Bertujuan untuk membangun perangkat lunak secara efisien, benar, tepat waktu, bernilai ekonomis, dapat diandalkan, serta mampu memuaskan kebutuhan pengguna.
 * **Fokus RPL:**
   * **Maintainability:** Mudah dimodifikasi atau menjalani perubahan.
   * **Dependability:** Dapat diandalkan dan dipercaya.
