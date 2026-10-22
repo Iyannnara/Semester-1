@@ -19,9 +19,6 @@ mendeskripsikan karakteristik model Prototyping dengan kelebihan dan kekurangann
 mendeskripsikan karakteristik model Spiral dengan kelebihan dan kekurangannya 
 mendeskripsikankarakteristik model Rapid Application Development (RAD) dengan kelebihan dan kekurangan dari model ini
 
-Berikut adalah ringkasan materi sesuai poin-poin yang diminta:
-
----
 
 ### 1. Perbedaan Program dan Perangkat Lunak (Software)
 
