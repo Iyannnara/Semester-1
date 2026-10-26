@@ -1,10 +1,7 @@
-# Bikin Pola Huruf 'X' di C? Gampang Banget! 🚀
-
-Pernah penasaran gimana caranya bikin huruf **'X'** pake bintang-bintang (`*`) di terminal C? Di sini kita bakal bedah kodenya dengan gaya santai biar gampang dipahami.
-
+# Penjelasan bintang "*" X
 ---
 
-## 🛠️ Kode Lengkapnya dulu, Nih!
+## 🛠️ Kode Lengkapnya
 
 ```c
 #include <stdio.h>
@@ -55,7 +52,12 @@ int main() {
   - `nilaiInput`: Menyimpan angka yang dimasukkan pengguna.
   - `ukuranGrid`: Luas papan/grid tempat huruf 'X' digambar.
   - `baris` & `kolom`: Petunjuk posisi (koordinat) saat program menggambar.
-
+kenapa int variabel ada 2?
+karena hanya untuk alasan kerapian dan pengelompokan fungsi, bukan karena aturan wajib dari bahasa C.
+kalau mau jadi satu gapapa
+```c
+int nilaiInput, ukuranGrid, baris, kolom;
+```
 ---
 
 ### 2. Minta Input Pengguna
