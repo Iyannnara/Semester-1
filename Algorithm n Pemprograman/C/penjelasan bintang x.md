@@ -50,8 +50,8 @@ int main() {
   Pintu masuk utama program. Semua aksi dimulai dari sini.
 - **Variabel:**
   - `nilaiInput`: Menyimpan angka yang dimasukkan pengguna.
-  - `ukuranGrid`: Luas papan/grid tempat huruf 'X' digambar.
-  - `baris` & `kolom`: Petunjuk posisi (koordinat) saat program menggambar.
+  - `ukuranGrid`: Luas papan/grid tempat huruf 'X' digambar. (panjang dan lebar kotak)
+  - `baris` & `kolom`: Petunjuk posisi (koordinat) saat program menggambar. (Digunakan sebagai variabel penghitung (iterator) untuk perulangan bersarang (nested loop))
 kenapa int variabel ada 2?
 karena hanya untuk alasan kerapian dan pengelompokan fungsi, bukan karena aturan wajib dari bahasa C.
 kalau mau jadi satu gapapa
