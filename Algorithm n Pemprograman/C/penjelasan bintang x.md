@@ -1,46 +1,6 @@
 # Penjelasan bintang "*" X
 ---
 
-## 🛠️ Kode Lengkapnya
-
-```c
-#include <stdio.h>
-
-int main() {
-    int nilaiInput, ukuranGrid;
-    int baris, kolom;
-
-    // 1. Minta angka dari user
-    printf("Masukkan angka = ");
-    scanf("%d", &nilaiInput);
-
-    // 2. Hitung ukuran grid (wajib ganjil biar punya titik tengah)
-    ukuranGrid = 2 * nilaiInput - 1;
-
-    // 3. Perulangan untuk jalan-jalan di grid (koordinat 2D)
-    for (baris = 0; baris < ukuranGrid; baris++) {
-        for (kolom = 0; kolom < ukuranGrid; kolom++) {
-
-            // 4. Logika penentu: Kapan cetak bintang (*)?
-            int diagonalUtama = (baris == kolom);
-            int diagonalSekunder = (baris + kolom == ukuranGrid - 1);
-
-            if (diagonalUtama || diagonalSekunder) {
-                printf("*"); // Pas di jalur silang, cetak bintang
-            } else {
-                printf(" "); // Di luar jalur silang, kasih spasi
-            }
-        }
-        // Kelar satu baris, ganti baris baru
-        printf("\n");
-    }
-
-    return 0;
-}
-```
-
----
-
 ## 🔍 Bedah Kode Biar Nggak Pusing
 
 ### 1. Pondasi Awal (Header & Variabel)
@@ -126,3 +86,43 @@ Grid otomatis dibuat berukuran $5 \times 5$, dan hasilnya di terminal bakal sepe
 ```
 
 Simetris, rapi, dan membentuk huruf **X** yang presisi di tengah-tengah!
+
+---
+
+## 🛠️ Kode Lengkapnya
+
+```c
+#include <stdio.h>
+
+int main() {
+    int nilaiInput, ukuranGrid;
+    int baris, kolom;
+
+    // 1. Minta angka dari user
+    printf("Masukkan angka = ");
+    scanf("%d", &nilaiInput);
+
+    // 2. Hitung ukuran grid (wajib ganjil biar punya titik tengah)
+    ukuranGrid = 2 * nilaiInput - 1;
+
+    // 3. Perulangan untuk jalan-jalan di grid (koordinat 2D)
+    for (baris = 0; baris < ukuranGrid; baris++) {
+        for (kolom = 0; kolom < ukuranGrid; kolom++) {
+
+            // 4. Logika penentu: Kapan cetak bintang (*)?
+            int diagonalUtama = (baris == kolom);
+            int diagonalSekunder = (baris + kolom == ukuranGrid - 1);
+
+            if (diagonalUtama || diagonalSekunder) {
+                printf("*"); // Pas di jalur silang, cetak bintang
+            } else {
+                printf(" "); // Di luar jalur silang, kasih spasi
+            }
+        }
+        // Kelar satu baris, ganti baris baru
+        printf("\n");
+    }
+
+    return 0;
+}
+```
