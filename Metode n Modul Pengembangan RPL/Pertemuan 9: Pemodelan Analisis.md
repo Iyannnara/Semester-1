@@ -13,6 +13,8 @@ Pemahaman mendalam mengenai pemodelan data dan proses menggunakan
 - DFD (Data Flow Diagram)
 - STD (State Transition Diagram)
 
+paling salah dalam ERD, jangan ada arus data dari tabel ke tabel, tidak ada juga arus dari user ke tabel langsung.
+
 bagaiamana caranya bikin data flow diagram?
 
 <img width="533" height="747" alt="image" src="https://github.com/user-attachments/assets/2074570d-5442-41f8-b958-7b241db58009" />
