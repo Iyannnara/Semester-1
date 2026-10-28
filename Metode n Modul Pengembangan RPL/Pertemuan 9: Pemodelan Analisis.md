@@ -1,6 +1,7 @@
 ### Pemodelan Analisis, Wed 28 Oct 2026
 link:
 - https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lmsspada.kemdiktisaintek.go.id/mod/resource/view.php%3Fid%3D104681&ved=2ahUKEwjY3a_4_NuXAxVWSmwGHX0WD_EQFnoECBwQAQ&usg=AOvVaw1dys1HJ7jnkQBiJUHQRzfG
+- https://www.ibm.com/id-id/think/topics/data-flow-diagram
 - 
 Ada dua jenis Pemodelan Analisis yaitu pemodelan analisis terstruktur dan pemodelan analisis berorientasi objek.
 Pemodelan Analisis terstruktur merupakan salah satu teknik analisis yang mengunakan pendekatan berorientasi fungsi. 
@@ -12,7 +13,8 @@ Pemahaman mendalam mengenai pemodelan data dan proses menggunakan
 - DFD (Data Flow Diagram)
 - STD (State Transition Diagram)
 
-bagaiamana caranya bikin data flow diagram
+bagaiamana caranya bikin data flow diagram?
+
 <img width="533" height="747" alt="image" src="https://github.com/user-attachments/assets/2074570d-5442-41f8-b958-7b241db58009" />
 
 1. Level 0 data flow diagram menunjukkan software/sistem sebagai satu bulatan
