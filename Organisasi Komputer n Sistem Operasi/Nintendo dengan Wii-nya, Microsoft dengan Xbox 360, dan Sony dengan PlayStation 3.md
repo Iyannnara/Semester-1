@@ -1,12 +1,13 @@
 # Nintendo dengan Wii-nya, Microsoft dengan Xbox 360, dan Sony dengan PlayStation 3
 
-Mungkin banyak yang belum tahu, di era ketiga raksasa konsol dunia yaitu Nintendo dengan Wii-nya, Microsoft dengan Xbox 360, dan Sony dengan PlayStation 3, semuanya kompak ditenagai oleh satu arsitektur prosesor yang sama buatan IBM, yaitu PowerPC (PPC)."
+Mungkin banyak yang belum tahu, di era ketiga raksasa konsol dunia yaitu Nintendo dengan Wii-nya, Microsoft dengan Xbox 360, dan Sony dengan PlayStation 3, semuanya kompak ditenagai oleh satu arsitektur prosesor yang sama buatan IBM, yaitu PowerPC (PPC).
+
 ### Generasi ke-6 (Nintendo GameCube & Wii)
 Nintendo sebelumnya sempat memakai MIPS di N64, tapi kemudian beralih ke IBM PowerPC.
 Di GameCube (tahun 2001), Nintendo memakai chip bernama *Gekko*, 
 lalu di-upgrade lagi pada konsol Wii di tahun 2006 dengan chip bernama *Broadway*.
 
-Dari sisi teknis, 
+#### Dari sisi teknis, 
 - IBM merancang Floating-Point Unit (FPU) khusus yang bisa memproses dua data sekaligus (paired-single), sangat membantu perhitungan koordinat 3D.
 - L2 Cache langsung ditanam di dalam chip agar komunikasi data lebih cepat.
 - Fokus Nintendo di sini bukan sekadar adu tenaga mentah, tapi efisiensi daya agar konsol bisa dibuat kecil tanpa takut kepanasan atau overheating.
