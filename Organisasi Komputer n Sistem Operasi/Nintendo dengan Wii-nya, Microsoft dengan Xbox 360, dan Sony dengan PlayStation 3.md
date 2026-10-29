@@ -25,6 +25,7 @@ Ini arsitektur heterogen yang unik:
 - 8 unit ko-prosesor bernama SPE khusus untuk kalkulasi matematika berat.
   
 Hasilnya? 
+
 Pada tahun 2005-2006, performa Cell BE ini mirip seperti komputer super (supercomputer) rumahan, melampaui kemampuan PC biasa pada masa itu.
 implementasi arsitektur IBM PowerPC pada konsol generasi ke-6 dan ke-7 adalah salah satu tonggak sejarah paling penting di dunia video game. 
 IBM berhasil membuktikan bahwa arsitektur RISC mampu mendominasi komputasi grafis 3D dan pemrosesan paralel secara masif.
