@@ -4,8 +4,8 @@ int main() {
     int n;
     printf("Masukkan jumlah data yang ingin diinput: ");
     scanf("%d", &n);
+    
     float nilai[n];
-
     for (int i = 0; i < n; i++) {
         printf("Input data ke-%d: ", i);
         scanf("%f", &nilai[i]);
