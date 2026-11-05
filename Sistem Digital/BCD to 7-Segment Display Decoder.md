@@ -6,7 +6,7 @@ bilangan desimal berkode biner menjadi bentuk lain yang dapat dengan mudah ditam
 ' BCD adalah singkatan dari binary coded decimal (desimal berkode biner) . Ini adalah sistem penomoran digital di mana kita dapat merepresentasikan setiap angka desimal menggunakan 4 bit angka biner.
 Sistem desimal memiliki 10 digit. Untuk merepresentasikan kesepuluh digit tersebut, kita membutuhkan 10 kombinasi dari 4 bit biner.
 <img width="343" height="299" alt="image" src="https://github.com/user-attachments/assets/8240db27-86b1-45d1-991b-8e0baf73a2b5" />
-Sistem digital seperti komputer dapat memahami dan dengan mudah membaca angka besar dalam format biner. 
+' Sistem digital seperti komputer dapat memahami dan dengan mudah membaca angka besar dalam format biner. 
 Namun, manusia tidak dapat membaca angka biner yang besar. 
 Untuk mengatasi masalah ini, kita perlu menampilkannya sebagai angka desimal menggunakan tampilan 7-segmen.
 
