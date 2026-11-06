@@ -49,3 +49,9 @@ Angka 2 : Untuk menampilkan angka 2, kita perlu menyalakan segmen a, b, d, e, g 
 Angka 3 : Untuk menampilkan angka 3, kita perlu menyalakan segmen a, b, c, d, g dan mematikan segmen LED e, f.
 
 <img width="179" height="342" alt="image" src="https://github.com/user-attachments/assets/d8dd4c7b-0c5d-4079-acae-c38a115a480e" />
+
+### Tabel Kebenaran
+Asumsikan tampilan 7-Segmen katoda umum. Misalkan input biner ABCD ke dekoder dan output a, b, c, d, e, f, & g untuk tampilan.
+
+<img width="811" height="306" alt="image" src="https://github.com/user-attachments/assets/5c473bbc-4aa3-41c8-915a-a03ab6714ffd" />
+
