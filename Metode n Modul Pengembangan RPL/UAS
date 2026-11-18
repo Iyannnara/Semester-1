@@ -24,3 +24,6 @@ skenario = aksi dan reaksi
 aksi = user login ke sistem
 reaksi = sistem meminta user input ke username dan password (if valid = berhasil login, else valid = ulangi)
 struktur bakal dikirim di wa
+
+tata letak
+penggunaan warna nya
