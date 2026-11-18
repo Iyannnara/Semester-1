@@ -19,5 +19,8 @@ laporan
 dokumentasi
 boleh disertai website yang sudah jadi
 
-
+example : 
+skenario = aksi dan reaksi
+aksi = user login ke sistem
+reaksi = sistem meminta user input ke username dan password (if valid = berhasil login, else valid = ulangi)
 struktur bakal dikirim di wa
